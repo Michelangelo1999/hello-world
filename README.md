@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans, mike here.
+I like music, food and tv series.
+See you soon, goodby
